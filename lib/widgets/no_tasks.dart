@@ -15,7 +15,7 @@ class NoTasks extends StatelessWidget {
           size: 100,
         ),
         Text(
-          "No Tasks yetttttttt, Please Add Some",
+          "No Tasks Yet, Please Add Some",
           style: TextStyle(
               color: Colors.grey, fontSize: 16, fontWeight: FontWeight.bold),
         )
